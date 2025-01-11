@@ -501,6 +501,18 @@ body {
   .container .card .imgbx{
     width: 273px;
   }
+  .about-content{
+    width: 300px;
+  }
+  .about-content h2 {
+    text-align: center;
+  }
+  .about-content h1{
+    text-align: center;
+  }
 
+  .about-content p{
+    text-align: center;
+  }
   
 }
