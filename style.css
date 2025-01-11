@@ -496,3 +496,11 @@ body {
   font-size: 16px;
   color: rgb(0, 0, 0);
 }
+
+@media (width: 375px) and (height: 667px){
+  .container .card .imgbx{
+    width: 273px;
+  }
+
+  
+}
